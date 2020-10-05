@@ -1,0 +1,8 @@
+black~=19.10b0
+Flask~=1.1.2
+mysql-connector-python~=8.0.21
+pycodestyle~=2.6.0
+PyMySQL~=0.10.0
+PyPika~=0.38.0
+pytest~=6.0.1
+gunicorn
